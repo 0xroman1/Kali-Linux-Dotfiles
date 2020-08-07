@@ -1,11 +1,11 @@
 # .dotfiles
 Kali Linux Rice
 
-What Im Using:
-i3-Gaps
-Polybar
-Rofi
-Compton
-Kitty - ZSH - Spaceship Theme
+
+| i3-Gaps |
+Polybar |
+Rofi |
+Compton | 
+Kitty - ZSH - Spaceship Theme |
 
 ![Image of Rice](https://i.imgur.com/tVwGTli.png)
