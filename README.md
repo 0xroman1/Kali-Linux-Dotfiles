@@ -1,5 +1,5 @@
 # Kali Linux Rice Dotfiles
-#__________________________
+
 
 | i3-Gaps |
 Polybar |
